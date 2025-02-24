@@ -1,7 +1,4 @@
-//Programming Assignment 02
-//Course: CS5313
-//Name: Vinay Chegondi
-//CWID: A20446822
+
 
 import java.util.*;
 import java.io.*;
